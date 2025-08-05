@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 """
 Manages a persistent, background-threaded connection to MCP servers.
 """

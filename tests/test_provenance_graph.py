@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 from src.dromedary.provenance_graph import ProvenanceGraph, Source, SourceType, ProvenanceTracker, CapabilityValue
 
 def test_add_literal_node():

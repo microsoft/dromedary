@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 import inspect
 from typing import get_type_hints, get_origin, get_args, Optional
 from langchain.tools import BaseTool

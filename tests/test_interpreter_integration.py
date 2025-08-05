@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 import pytest
 from src.dromedary.interpreter import PythonInterpreter
 from src.dromedary.provenance_graph import SourceType, CapabilityValue

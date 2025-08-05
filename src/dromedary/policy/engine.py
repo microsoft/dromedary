@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 import os
 import yaml
 from typing import Dict, List, Any, Optional, Tuple

@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
+
 import asyncio
 import json
 import uuid

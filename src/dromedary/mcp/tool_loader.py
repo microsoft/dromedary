@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 """
 Provides a unified, high-level interface for accessing MCP tools.
 """
