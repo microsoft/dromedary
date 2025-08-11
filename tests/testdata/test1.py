@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 # Retrieve the most recently received email
 received = get_received_emails()
 last_email = received[-1]

@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 import ast
 import operator
 from typing import Any, Dict, List, Union

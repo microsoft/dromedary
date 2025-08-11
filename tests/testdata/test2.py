@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 from datetime import date, timedelta                                                      
 from pydantic import BaseModel, EmailStr                                                  
 # 1. Fetch the most recent received email                                                 

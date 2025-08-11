@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 """
 Dromedary MCP - Model Context Protocol integration for the Dromedary system.
 """

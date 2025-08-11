@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 """
 Run the P-LLM interpreter standalone for testing and debugging.
 """

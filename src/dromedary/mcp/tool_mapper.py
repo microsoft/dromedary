@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 """
 MCP tool mapper for converting MCP tools to Python callable functions.
 """
