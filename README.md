@@ -2,7 +2,7 @@
 
 Dromedary is a one-humped Camel. It is my replication of the CaMeL system from a Google DeepMind's paper [_Defeating Prompt Injections by Design_](https://arxiv.org/pdf/2503.18813).
 
-> :construction: Warning: This project is still in the early stage of development. Many aspects of the system are not yet implemented. Please see the [What's missing?](#whats-missing) section for more details.
+> :construction: Warning: This project is an interesting research demonstration, and many aspects of the system are not yet implemented. Please see the [What's missing?](#whats-missing) section for more details. It is NOT TO BE USED IN PRODUCTION.
 
 
 https://github.com/user-attachments/assets/978103b7-d87e-4c08-a89b-762717b21c79
