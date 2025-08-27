@@ -1,0 +1,676 @@
+{
+    "$schema": "https://json.schemastore.org/component-detection-manifest.json",
+    "version": 1,
+    "registrations": [
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "aiofiles",
+                    "version": "24.1.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "annotated-types",
+                    "version": "0.7.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "anyio",
+                    "version": "4.9.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "async-timeout",
+                    "version": "4.0.3"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "certifi",
+                    "version": "2025.6.15"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "cffi",
+                    "version": "1.17.1"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "charset-normalizer",
+                    "version": "3.4.2"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "click",
+                    "version": "8.2.1"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "colorama",
+                    "version": "0.4.6"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "contourpy",
+                    "version": "1.3.2"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "cycler",
+                    "version": "0.12.1"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "distro",
+                    "version": "1.9.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "dnspython",
+                    "version": "2.7.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "email-validator",
+                    "version": "2.2.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "exceptiongroup",
+                    "version": "1.3.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "fonttools",
+                    "version": "4.58.4"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "greenlet",
+                    "version": "3.2.3"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "h11",
+                    "version": "0.16.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "httpcore",
+                    "version": "1.0.9"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "httpx",
+                    "version": "0.28.1"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "httpx-sse",
+                    "version": "0.4.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "idna",
+                    "version": "3.10"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "iniconfig",
+                    "version": "2.1.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "jiter",
+                    "version": "0.10.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "jsonpatch",
+                    "version": "1.33"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "jsonpointer",
+                    "version": "3.0.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "kiwisolver",
+                    "version": "1.4.8"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "langchain",
+                    "version": "0.3.25"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "langchain-core",
+                    "version": "0.3.65"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "langchain-openai",
+                    "version": "0.3.23"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "langchain-text-splitters",
+                    "version": "0.3.20"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "langgraph",
+                    "version": "0.2.75"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "langgraph-checkpoint",
+                    "version": "2.2.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "langgraph-sdk",
+                    "version": "0.2.8"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "langsmith",
+                    "version": "0.1.196"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "markdown-it-py",
+                    "version": "3.0.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "matplotlib",
+                    "version": "3.10.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "mcp",
+                    "version": "1.9.4"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "mdurl",
+                    "version": "0.1.2"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "msgpack",
+                    "version": "1.1.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "networkx",
+                    "version": "3.5"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "numpy",
+                    "version": "2.2.2"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "openai",
+                    "version": "1.68.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "orjson",
+                    "version": "3.10.17"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "packaging",
+                    "version": "25.0.1"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "pillow",
+                    "version": "11.2.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "pluggy",
+                    "version": "1.5.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "pycparser",
+                    "version": "2.22"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "pydantic",
+                    "version": "2.11.5"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "pydantic-core",
+                    "version": "2.30.1"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "pygments",
+                    "version": "2.19.1"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "pyparsing",
+                    "version": "3.2.1"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "pytest",
+                    "version": "8.4.0"
+                }
+            },
+            "developmentDependency": true
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "pytest-asyncio",
+                    "version": "0.25.1"
+                }
+            },
+            "developmentDependency": true
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "python-dateutil",
+                    "version": "2.9.0.post0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "python-dotenv",
+                    "version": "1.0.1"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "pyyaml",
+                    "version": "6.0.2"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "requests",
+                    "version": "2.32.3"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "rich",
+                    "version": "14.1.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "six",
+                    "version": "1.17.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "sniffio",
+                    "version": "1.3.1"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "sqlalchemy",
+                    "version": "2.0.37"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "tenacity",
+                    "version": "9.0.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "tiktoken",
+                    "version": "0.8.0"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "tqdm",
+                    "version": "4.67.5"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "typing-extensions",
+                    "version": "4.12.2"
+                }
+            },
+            "developmentDependency": false
+        },
+        {
+            "component": {
+                "type": "pip",
+                "pip": {
+                    "name": "urllib3",
+                    "version": "2.3.0"
+                }
+            },
+            "developmentDependency": false
+        }
+    ]
+}
