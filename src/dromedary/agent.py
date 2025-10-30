@@ -9,7 +9,7 @@ from pathlib import Path
 from typing import Optional
 from dotenv import load_dotenv
 from langchain_openai import AzureChatOpenAI
-from langchain.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate
 from langgraph.prebuilt import create_react_agent
 from rich.console import Console
 from rich.panel import Panel
